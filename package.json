@@ -8,7 +8,13 @@
     "@testing-library/user-event": "^12.1.10",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-globe": "^5.0.2",
+    "react-globe.gl": "^2.19.0",
     "react-scripts": "4.0.3",
+    "react-three": "^0.9.7",
+    "three": "^0.134.0",
+    "three-globe": "^2.21.3",
+    "three-glow-mesh": "^0.1.2",
     "web-vitals": "^1.0.1"
   },
   "scripts": {
